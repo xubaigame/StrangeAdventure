@@ -1,0 +1,225 @@
+[{
+  "id": 1,
+  "name": "好奇心害死猫",
+  "description": "别做那只小猫，喵喵~",
+  "spritePath": "Achievement_logo_28",
+  "level": "1-1",
+  "unlock": false
+}, {
+  "id": 2,
+  "name": "死于弹簧君",
+  "description": "我要升仙啦~",
+  "spritePath": "Achievement_logo_14",
+  "level": "1-2",
+  "unlock": false
+}, {
+  "id": 3,
+  "name": "时间终结者",
+  "description": "成功停止了时间",
+  "spritePath": "Achievement_logo_27",
+  "level": "1-3",
+  "unlock": false
+}, {
+  "id": 4,
+  "name": "爱上史莱姆",
+  "description": "死于史莱姆君之手，做鬼也风流",
+  "spritePath": "Achievement_logo_13",
+  "level": "1-4",
+  "unlock": false
+}, {
+  "id": 5,
+  "name": "心急吃不了热豆腐",
+  "description": "兄弟，挺住",
+  "spritePath": "Achievement_logo_29",
+  "level": "1-6",
+  "unlock": false
+}, {
+  "id": 6,
+  "name": "发现新大陆",
+  "description": "在关卡2-1中发现隐藏场景",
+  "spritePath": "Achievement_logo_18",
+  "level": "2-1",
+  "unlock": false
+}, {
+  "id": 7,
+  "name": "为真爱而死",
+  "description": "死得其所，快哉快哉",
+  "spritePath": "Achievement_logo_15",
+  "level": "2-2",
+  "unlock": false
+}, {
+  "id": 8,
+  "name": "远离毒品",
+  "description": "喂！动不动就自杀是想闹哪样啊！",
+  "spritePath": "Achievement_logo_26",
+  "level": "2-3",
+  "unlock": false
+}, {
+  "id": 9,
+  "name": "暗黑破坏神",
+  "description": "你们将溺毙在自己的鲜血中！",
+  "spritePath": "Achievement_logo_5",
+  "level": "3-2",
+  "unlock": false
+}, {
+  "id": 10,
+  "name": "防盗门破坏者",
+  "description": "禽兽！放开那只防盗门！",
+  "spritePath": "Achievement_logo_7",
+  "level": "3-3",
+  "unlock": false
+}, {
+  "id": 11,
+  "name": "富二代",
+  "description": "俺胡汉三也成富二代啦！",
+  "spritePath": "Achievement_logo_6",
+  "level": "3-4",
+  "unlock": false
+}, {
+  "id": 12,
+  "name": "成为Up主的超级粉丝",
+  "description": "人家都不好意思啦>_<",
+  "spritePath": "Achievement_logo_2",
+  "level": "3-6",
+  "unlock": false
+}, {
+  "id": 13,
+  "name": "图样图森破",
+  "description": "Sometimes naive",
+  "spritePath": "Achievement_logo_30",
+  "level": "4-1",
+  "unlock": false
+}, {
+  "id": 14,
+  "name": "我是歌手",
+  "description": "在4-2中成为一名歌手",
+  "spritePath": "Achievement_logo_23",
+  "level": "4-2",
+  "unlock": false
+}, {
+  "id": 15,
+  "name": "聪明的创造者",
+  "description": "找不到正确的路？创造之！",
+  "spritePath": "Achievement_logo_25",
+  "level": "4-3",
+  "unlock": false
+}, {
+  "id": 16,
+  "name": "两次踏入同一条河流",
+  "description": "聪明的人从不会两次踏入同一条河流",
+  "spritePath": "Achievement_logo_0",
+  "level": "4-5",
+  "unlock": false
+}, {
+  "id": 17,
+  "name": "人生的赢家",
+  "description": "在与电锯男的角逐中获胜",
+  "spritePath": "Achievement_logo_1",
+  "level": "4-6",
+  "unlock": false
+}, {
+  "id": 18,
+  "name": "人生无法读档",
+  "description": "游戏可以重来，人生无法读档",
+  "spritePath": "Achievement_logo_22",
+  "level": "5-1",
+  "unlock": false
+}, {
+  "id": 19,
+  "name": "连连看大王",
+  "description": "妈妈再也不用担心我的视力了",
+  "spritePath": "Achievement_logo_10",
+  "level": "5-2",
+  "unlock": false
+}, {
+  "id": 20,
+  "name": "疯狂的矿工",
+  "description": "我们是西伯尔疯狂的矿工",
+  "spritePath": "Achievement_logo_17",
+  "level": "5-4",
+  "unlock": false
+}, {
+  "id": 21,
+  "name": "击败一只野生的草泥马",
+  "description": "我是要成为最强的宠物训练师的男人！",
+  "spritePath": "Achievement_logo_4",
+  "level": "5-6",
+  "unlock": false
+}, {
+  "id": 22,
+  "name": "史莱姆终结者",
+  "description": "其实我不是故意的",
+  "spritePath": "Achievement_logo_24",
+  "level": "6-1",
+  "unlock": false
+}, {
+  "id": 23,
+  "name": "水管工",
+  "description": "水管工也有春天",
+  "spritePath": "Achievement_logo_20",
+  "level": "6-2",
+  "unlock": false
+}, {
+  "id": 24,
+  "name": "花样作死",
+  "description": "只为一朝能通关，从此节操是路人",
+  "spritePath": "Achievement_logo_21",
+  "level": "6-4",
+  "unlock": false
+}, {
+  "id": 25,
+  "name": "不动如山",
+  "description": "此时无招胜有招",
+  "spritePath": "Achievement_logo_19",
+  "level": "6-6",
+  "unlock": false
+}, {
+  "id": 26,
+  "name": "一个真实的故事",
+  "description": "你的智商打败了1%的其他玩家",
+  "spritePath": "Achievement_logo_8",
+  "level": "",
+  "unlock": false
+}, {
+  "id": 27,
+  "name": "好人卡",
+  "description": "你是一个好人，鉴定完毕！",
+  "spritePath": "Achievement_logo_9",
+  "level": "",
+  "unlock": false
+}, {
+  "id": 28,
+  "name": "蓝屏",
+  "description": "蓝瓶的钙，好喝的钙",
+  "spritePath": "Achievement_logo_3",
+  "level": "",
+  "unlock": false
+}, {
+  "id": 29,
+  "name": "IQ 250",
+  "description": "在中途一次不死的情况下一次性通关某一关",
+  "spritePath": "Achievement_logo_11",
+  "level": "",
+  "unlock": false
+}, {
+  "id": 30,
+  "name": "负 IQ",
+  "description": "你实在是太二了",
+  "spritePath": "Achievement_logo_12",
+  "level": "",
+  "unlock": false
+}, {
+  "id": 31,
+  "name": "鬼畜狂魔",
+  "description": "你们都给我适可而止好么？",
+  "spritePath": "Achievement_logo_1",
+  "level": "",
+  "unlock": false
+}, {
+  "id": 32,
+  "name": "成就",
+  "description": "就只剩一个成就了啦~",
+  "spritePath": "Achievement_logo_31",
+  "level": "",
+  "unlock": false
+}]

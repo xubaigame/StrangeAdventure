@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="20" tilewidth="24" tileheight="24">
+ <tileset firstgid="1" name="Tile_source" tilewidth="24" tileheight="24">
+  <image source="Tile_source.png" width="800" height="480"/>
+ </tileset>
+ <layer name="BackgroundColor" width="100" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwwENAAAMw6B6mX+PF3JIWDVVVVVVVVVVff4Asp0RgA==
+  </data>
+ </layer>
+ <layer name="Platform" width="100" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt0bsNwCAQREE+ndj0XyMBEaGFgxWakV5+py0FAAAAAADgLi2kfvBDDbj/r96QxqcFdk/A/bdlj6zssZoKjiPz
+  </data>
+ </layer>
+ <layer name="PlatformDynamic" width="100" height="20" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt0rsNgDAQREFHfCp1JVAKtOmLkEhJzjYz0ss32FIAAADGdERn9ggeV3Rnj5iYv/fF34GR1ewBP1c/xlyWaI22aE/eAsBbA5RmCtg=
+  </data>
+ </layer>
+ <layer name="Decoration" width="100" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztz8sRgkAQBuHZo/ggDxQ1/wQUMBAfkAN99Ky1Umv1V9Xn+Scivyt11NNAtx/czOUS5f/zoCe9aKRp2TlfuUf5/1QpYk0b2tKO6rT0qs+sUvn/7Nl6oJaOdKJzQfvfNem//pEkSZIkSZIkScptBhVtFcc=
+  </data>
+ </layer>
+</map>

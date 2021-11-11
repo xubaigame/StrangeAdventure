@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="20" tilewidth="24" tileheight="24">
+ <tileset firstgid="1" name="Tile_source" tilewidth="24" tileheight="24">
+  <image source="Tile_source.png" width="800" height="480"/>
+ </tileset>
+ <layer name="BackgroundColor" width="100" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwwENAAAMw6B6mX+PF3JIWDVVVVVVVVVVff4Asp0RgA==
+  </data>
+ </layer>
+ <layer name="Platform" width="100" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1LENgDAMBECmgVFgNBgFpiQNKVKkgciWuJNeLu3mPU0AQFZ7yRF9BNVZckUfQe2FfuTw9EI/gC+1v97Pj9X+ej8fAN6ZS5bOjNo7ema1lmydGbV39MxKP3L5az9uObwwuQ==
+  </data>
+ </layer>
+ <layer name="PlatformDynamic" width="100" height="20" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztmGlKAzEUgFMFl7pB1Quo6A9XqHoBLWqPohfRPy54Cv3jcgp3XE7hWlwO4Ddg4TEdxU4myWQ6H3y8MGUyIY9XXqJUtrkV4+GCs2Xk/PAuxg/OVpFTR+bjy9kq4hGUcxu2i7F85iPbuIO7uOd4Lc0ygqM4JsbymY8c4TGe4KmD769hNea7shaWcFnZq48zPMcLvMSrlM7ZLOu4EfNdl/XxiE/4jC/4mtI5bVKviYoYy2cmKVKIPdiLfdiPA5r9qYk5W4VJ9mkKp3EGZ3FOc+/izHmNN3qfzUmQN6y5XkROYmziloimkf18OIb7+w7sxC7sxuI/f/OZAzwU0TSynw9HF/19qxPcz93hPX6EzO+H7BPcBwV7/6ka82HyfkjnnJtlSvSLgzhUaMyHyftsnXPub1SV/zkus+fzuBCRj0WLZ619TcdxIiL6RikiDzbqI2lWcDUi+kZW8pGV+ij/kQ+b/1e6pLU+vgGXKW/G
+  </data>
+ </layer>
+ <layer name="Decoration" width="100" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt0bcNgEAQBdEjxRaC7b8CXCO4HpgCSIguuHnS5F+7IejLTAuttNEed07yDjrpopueuHOSl2chFFRSRTU1WexV6Wq5fUc9DTTS5D8kSZIkSZIkSZJ+ewFjigny
+  </data>
+ </layer>
+</map>

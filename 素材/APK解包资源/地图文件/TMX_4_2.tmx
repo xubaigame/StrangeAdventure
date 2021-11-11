@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="34" height="20" tilewidth="24" tileheight="24">
+ <tileset firstgid="1" name="Tile_source" tilewidth="24" tileheight="24">
+  <image source="Tile_source.png" width="800" height="480"/>
+ </tileset>
+ <layer name="BackgroundColor" width="34" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztw0ENAAAMA6HzUv8eZ2MPSFg1VVV98gDHAlz5
+  </data>
+ </layer>
+ <layer name="Platform" width="34" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwzEJAAAMA7Ay/6LnovRIIAkAQNeNZNMDiZgARQ==
+  </data>
+ </layer>
+ <layer name="PlatformDynamic" width="34" height="20" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRQAvQCsRtdOTjAsuAeDkd+aNgFIyCUUApAAAmbhBp
+  </data>
+ </layer>
+ <layer name="Decoration" width="34" height="20" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAODHAAqgAAE=
+  </data>
+ </layer>
+</map>

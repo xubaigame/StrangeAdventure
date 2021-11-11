@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="116" height="20" tilewidth="24" tileheight="24">
+ <tileset firstgid="1" name="Tile_source" tilewidth="24" tileheight="24">
+  <image source="Tile_source.png" width="800" height="480"/>
+ </tileset>
+ <layer name="BackgroundColor" width="116" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwwENAAAMw6B6mX+PF3JIWDVVVVVVVVVVVfXlA/WoPUA=
+  </data>
+ </layer>
+ <layer name="Platform" width="116" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztmD2KAkEQRnvi3UjXEwhropF6Br2At3DRSyga+HcJRQPHNfIW/p1Edw/gEwUNBsRxsKeH78GjuqGCKooKuo0RQWwwe3VvuRbxOn0c4BBHlmsRr+PjAn9xabkWIYQQ8ecDPwNi2DxhlzwWAmLYPBEvHu2ncItH+ync4l37aev93sEutrB9dw+bF3fetZ+23u9TnOEYJ3f3sHniwvm/dIs7rHnGNLCJdfzxLBcnnuaAR/zDf3P7C+8xy77m6RwpZpbGL8x4t3nOOfuap3MUmVkJy7jCLe5wjRvN0zm+MRdhdI2k9V3BaoTRNZLWt/YzWX1rP6Pp+wTkN095
+  </data>
+ </layer>
+ <layer name="PlatformDynamic" width="116" height="20" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt070JgDAURWErf9A5tNE5dDFFF1F0Sm+ZKsFCHnmcDw63S9KkKAAAAAAAAIC0VnXBererI1gLq9p+OntUU7De3eoJ1sKpLqO7kVaqStWqMX4LAABf9GqILPIyqyWyyAv/0xfv//MFdaUO/w==
+  </data>
+ </layer>
+ <layer name="Decoration" width="116" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzsENglAQRdH/l4JiH4hC/w2AQCGA2oOvAAz5JgOzuCe5m9m8CcFWp56qV4MajffaAzbXdD/uXv7716wW9VJv9THemw7YTOH9vy1ZDCFXZ3VRhbpGu71T3H8zhff/ttz0Z6Xu6qFq1Rj+Xsb9N1N4/w8AAAAAAAAAAAAAvPgCqyoiZA==
+  </data>
+ </layer>
+</map>

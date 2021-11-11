@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<plist>
+	<dict>
+		<key>KEY</key>
+		<string>zh</string>
+		<key>ACH_Title_Prefix</key>
+		<string>获得成就</string>
+		<key>ACH_Title_IQ250</key>
+		<string>IQ 250</string>
+		<key>ACH_Desc_IQ250</key>
+		<string>在中途不死的情况下一次性通过某一关</string>
+		<key>ACH_Title_IQNegetive</key>
+		<string>负IQ</string>
+		<key>ACH_Desc_IQNegetive</key>
+		<string>你实在是太二了</string>
+		<key>ACH_Title_TooCurios</key>
+		<string>好奇心害死猫</string>
+		<key>ACH_Desc_TooCurios</key>
+		<string>别做那只小猫, 喵喵~</string>
+		<key>ACH_Title_TimeTerminator</key>
+		<string>时间终结者</string>
+		<key>ACH_Desc_TimeTerminator</key>
+		<string>成功停止了时间</string>
+		<key>ACH_Title_KilledBySlime</key>
+		<string>爱上史莱姆</string>
+		<key>ACH_Desc_KilledBySlime</key>
+		<string>死于史莱姆君之手，做鬼也风流</string>
+		<key>ACH_Title_KilledBySpring</key>
+		<string>死于弹簧君</string>
+		<key>ACH_Desc_KilledBySpring</key>
+		<string>我要升仙啦～</string>
+		<key>ACH_Title_TooImpatient</key>
+		<string>心急吃不了热豆腐</string>
+		<key>ACH_Desc_TooImpatient</key>
+		<string>兄弟，挺住</string>
+		<key>ACH_Title_NewWorld</key>
+		<string>发现新大陆</string>
+		<key>ACH_Desc_NewWorld</key>
+		<string>在关卡2-1中发现隐藏场景</string>
+		<key>ACH_Title_KilledByTrueLove</key>
+		<string>为真爱而死</string>
+		<key>ACH_Desc_KilledByTrueLove</key>
+		<string>死得其所，快哉快哉</string>
+		<key>ACH_Title_Diablo</key>
+		<string>暗黑破坏神</string>
+		<key>ACH_Desc_Diablo</key>
+		<string>你们将溺毙在自己的鲜血中！</string>
+		<key>ACH_Title_DoorDestroyer</key>
+		<string>防盗门破坏者</string>
+		<key>ACH_Desc_DoorDestroyer</key>
+		<string>禽兽！放开那只防盗门！</string>
+		<key>ACH_Title_Diamond</key>
+		<string>富二代</string>
+		<key>ACH_Desc_Diamond</key>
+		<string>俺胡汉三也成富二代啦！</string>
+		<key>ACH_Title_BigFan</key>
+		<string>成为Up主的超级粉丝</string>
+		<key>ACH_Desc_BigFan</key>
+		<string>人家都不好意思了啦～ &gt;_&lt;</string>
+		<key>ACH_Title_Suicide</key>
+		<string>远离毒品</string>
+		<key>ACH_Desc_Suicide</key>
+		<string>喂！动不动就自杀是想闹哪样啊！</string>
+		<key>ACH_Title_GameOver</key>
+		<string>一个真实的故事</string>
+		<key>ACH_Desc_GameOver</key>
+		<string>你的智商打败了1%的其它玩家</string>
+		<key>ACH_Title_Singer</key>
+		<string>我是歌手</string>
+		<key>ACH_Desc_Singer</key>
+		<string>在4-2中成为一名歌手</string>
+		<key>ACH_Title_LifeWinner</key>
+		<string>人生的赢家</string>
+		<key>ACH_Desc_LifeWinner</key>
+		<string>在与电锯男的角逐中获胜</string>
+		<key>ACH_Title_SmartCreator</key>
+		<string>聪明的创造者</string>
+		<key>ACH_Desc_SmartCreator</key>
+		<string>找不到正确的路？创造之！</string>
+		<key>ACH_Title_2River</key>
+		<string>两次踏入同一条河流</string>
+		<key>ACH_Desc_2River</key>
+		<string>聪明人从不会两次踏入同一条河流</string>
+		<key>ACH_Title_TooYoung</key>
+		<string>图样图森破</string>
+		<key>ACH_Desc_TooYoung</key>
+		<string>Sometimes naive.</string>
+		<key>ACH_Title_SaveFlag</key>
+		<string>人生无法读档</string>
+		<key>ACH_Desc_SaveFlag</key>
+		<string>游戏可以重来，人生无法读档</string>
+		<key>ACH_Title_GoodVision</key>
+		<string>连连看大王</string>
+		<key>ACH_Desc_GoodVision</key>
+		<string>妈妈再也不用担心我的视力了</string>
+		<key>ACH_Title_Miner</key>
+		<string>疯狂的矿工</string>
+		<key>ACH_Desc_Miner</key>
+		<string>我们是西伯尔疯狂的矿工</string>
+		<key>ACH_Title_DefeatCNM</key>
+		<string>击败一只野生的草泥马</string>
+		<key>ACH_Desc_DefeatCNM</key>
+		<string>我是要成为最强的宠物训练师的男人！</string>
+		<key>ACH_Title_SlimeKiller</key>
+		<string>史莱姆终结者</string>
+		<key>ACH_Desc_SlimeKiller</key>
+		<string>其实我不是故意的</string>
+		<key>ACH_Title_Plumber</key>
+		<string>水管工</string>
+		<key>ACH_Desc_Plumber</key>
+		<string>水管工也有春天</string>
+		<key>ACH_Title_ProfessionalSuicide</key>
+		<string>花样作死</string>
+		<key>ACH_Desc_ProfessionalSuicide</key>
+		<string>只为一朝能通关，节操从此是路人</string>
+		<key>ACH_Title_NotMove</key>
+		<string>不动如山</string>
+		<key>ACH_Desc_NotMove</key>
+		<string>此时无招胜有招</string>
+		<key>ACH_Title_BlueScreen</key>
+		<string>蓝屏</string>
+		<key>ACH_Desc_BlueScreen</key>
+		<string>蓝屏的钙，好喝的钙</string>
+		<key>ACH_Title_GoodMan</key>
+		<string>好人卡</string>
+		<key>ACH_Desc_GoodMan</key>
+		<string>你是一个好人，鉴定完毕</string>
+		<key>ACH_Title_TouchTouch</key>
+		<string>鬼畜狂魔</string>
+		<key>ACH_Desc_TouchTouch</key>
+		<string>你们都给我适可而止好么？</string>
+		<key>ACH_Title_Achievement</key>
+		<string>成就</string>
+		<key>ACH_Desc_Achievement</key>
+		<string>只剩一个成就了啦~</string>
+		<key>Green_Content</key>
+		<string>A fatal exception 0E has occurred at 0157:BF7FF831.  The current
+application will be terminated.
+        
+*  Press any key to terminate the current application.
+*  Press CTRL+ALT+DEL again to restart your computer.  You will
+lose any unsaved information in all applications.
+        
+Press any key will not continue _</string>
+	</dict>
+</plist>
